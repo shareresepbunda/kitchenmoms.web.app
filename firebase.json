@@ -1,0 +1,11 @@
+{
+  "hosting": {
+   "site": "kitchenmoms",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
